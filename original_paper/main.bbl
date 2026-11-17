@@ -1,0 +1,83 @@
+\begin{thebibliography}{10}
+
+\bibitem{Harrow2023}
+Aram~W. Harrow and Saeed Mehraban.
+\newblock {Approximate Unitary t-Designs by Short Random Quantum Circuits Using Nearest-Neighbor and Long-Range Gates}.
+\newblock {\em Communications in Mathematical Physics}, 401(2):1531--1626, 2023.
+
+\bibitem{Peres2011}
+Yuval Peres and Peter Winkler.
+\newblock {Can extra updates delay mixing?}
+\newblock {\em Communications in Mathematical Physics}, 323:1007--1016, 8 2013.
+
+\bibitem{Lacoin2016}
+Hubert Lacoin.
+\newblock {Mixing time and cutoff for the adjacent transposition shuffle and the simple exclusion}.
+\newblock {\em Annals of Probability}, 44(2):1426--1487, 2016.
+
+\bibitem{Gantert2022}
+Nina Gantert, Evita Nestoridi, and Dominik Schmid.
+\newblock {Mixing times for the simple exclusion process with open boundaries}.
+\newblock {\em The Annals of Applied Probability}, 23(2):1172--1212, 2023.
+
+\bibitem{Caputo2019}
+Pietro Caputo, Cyril Labb{\'{e}}, Labb´ Labb{\'{e}}, and Hubert Lacoin.
+\newblock {Mixing Time of the Adjacent Walk on the Simplex}.
+\newblock {\em The Annals of Probability}, 48(5):2449--2493, 2020.
+
+\bibitem{Fill2013}
+James~Allen Fill and Jonas Kahn.
+\newblock {Comparison inequalities and fastest-mixing Markov chains}.
+\newblock {\em Annals of Applied Probability}, 23(5):1778--1816, 10 2013.
+
+\bibitem{Schmid2019}
+Dominik Schmid.
+\newblock {Mixing times for the simple exclusion process in ballistic random environment}.
+\newblock {\em Electronic Journal of Probability}, 24(22):1--25, 2019.
+
+\bibitem{Nestoridi2023}
+Evita Nestoridi, Amanda Priestley, and Dominik Schmid.
+\newblock {The S{\_}k Shuffle Block Dynamics}.
+\newblock {\em Latin American Journal of Probability and Mathematical Statistics}, 21(2):1547--1566, 2024.
+
+\bibitem{Blanca2018}
+Antonio Blanca, Zongchen Chen, and Eric Vigoda.
+\newblock {Swendsen-Wang Dynamics for General Graphs in the Tree Uniqueness Region}.
+\newblock {\em Random Structures {\&} Algorithms}, 56(2):373--400, 4 2019.
+
+\bibitem{Holroyd2011}
+Alexander~E Holroyd.
+\newblock {Some Circumstances Where Extra Updates can Delay Mixing}.
+\newblock {\em Journal of Statistical Physics}, 145:1649--1652, 2011.
+
+\bibitem{Schuster2024}
+Thomas Schuster, Jonas Haferkamp, and Hsin-Yuan Huang.
+\newblock {Random unitaries in extremely low depth}.
+\newblock 2024.
+
+\bibitem{Belkin2023}
+Daniel Belkin, James Allen, Soumik Ghosh, Christopher Kang, Sophia Lin, James Sud, Fred Chong, Bill Fefferman, and Bryan~K. Clark.
+\newblock {Approximate t-designs in generic circuit architectures}.
+\newblock {\em PRX Quantum}, 5(040344), 12 2024.
+
+\bibitem{Allen2024}
+James Allen, Daniel Belkin, and Bryan Clark.
+\newblock {A t-independent spectral gap for random quantum circuits}.
+\newblock 2024.
+
+\bibitem{Brandao2016}
+Fernando~G.S.L. Brand{\~{a}}o, Aram~W. Harrow, and Michał Horodecki.
+\newblock {Local Random Quantum Circuits are Approximate Polynomial-Designs}.
+\newblock {\em Communications in Mathematical Physics}, 346(2):397--434, 2016.
+
+\bibitem{Yada2025}
+Toshihiro Yada, Ryotaro Suzuki, Yosuke Mitsuhashi, and Nobuyuki Yoshioka.
+\newblock {Non-Haar random circuits form unitary designs as fast as Haar random circuits}.
+\newblock 4 2025.
+
+\bibitem{Suzuki2024}
+Ryotaro Suzuki, Hosho Katsura, Yosuke Mitsuhashi, Tomohiro Soejima, Jens Eisert, and Nobuyuki Yoshioka.
+\newblock {More global randomness from less random local gates}.
+\newblock 10 2024.
+
+\end{thebibliography}
