@@ -2,7 +2,7 @@
 Figure 7(b): spectral gap scaling, N(1 - lambda) vs number of qubits N (log y),
 for the linear graph and the lollipop graph (q=2, t=2).
 
-Provenance: /Users/danielbelkin/Documents/GitHub/random_circuit_concentration/
+Provenance: random_circuit_concentration/
 scripts/2024/s04_27_lollipop_numerics.py (commit ef4dfd6 "Reorganizing" is the
 latest touching it).
 

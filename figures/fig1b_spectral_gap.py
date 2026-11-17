@@ -7,12 +7,14 @@ Legend: 'Without deletion' / 'With deletion'.
 Output: output/fig1b_spectral_gap.pdf (panel b only; the paper's
 t2_choi_spectra_and_spectral_gap.pdf combines panels b and c).
 
-Provenance: /Users/danielbelkin/Documents/GitHub/random_circuit_concentration/scripts/2024/s11_29_nocensor.py
+Provenance: random_circuit_concentration/scripts/2024/s11_29_nocensor.py
 (the get_ssv / svdvals cell; the earlier eigvals cell is dropped).
 
 Deviation from the original code: the original plots 1 - sigma2 (largest
 non-unit singular value). The paper plots 1 - sigma2**2 (the gap of the
-palindromic period, main.tex ~line 153), so the gap is computed as 1 - sigma2**2.
+palindromic period G1 G2 G3 G2 G1 defined in Sec. 4 of arXiv:2502.15995), so the
+gap is computed as 1 - sigma2**2. The resulting curves agree with the closed
+forms for lambda and lambda' in Lemma 1 of the paper.
 """
 import sys
 from pathlib import Path

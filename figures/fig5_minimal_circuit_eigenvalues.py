@@ -1,6 +1,6 @@
 """
 Numbers quoted in the caption of Figure 5 of the paper: a 5-qubit
-circuit (drawn in original_paper/plots/minimal_circuit.png) that violates the censoring inequality for spectral gaps. Deleting the
+circuit that violates the censoring inequality for spectral gaps. Deleting the
 final (red) gate changes the largest non-unit eigenvalue of the second-moment
 operator from 0.2512 (with the gate) to 0.2423 (without it).
 

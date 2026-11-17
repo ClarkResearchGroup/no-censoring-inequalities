@@ -9,8 +9,7 @@ Commit in the old repo: unknown.
 
 Deviations from the original: dead code and unused helpers removed, imports made
 absolute from utils/, connectivity assert dropped. The circuit diagram
-(original_paper/plots/multerr_superminimal.png) is a schematic and is not
-generated here.
+itself is a schematic and is not generated here.
 """
 import sys
 from pathlib import Path
