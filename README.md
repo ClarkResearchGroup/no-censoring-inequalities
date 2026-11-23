@@ -13,6 +13,7 @@ Code to reproduce the numerical results of [arXiv:2502.15995](https://arxiv.org/
 | `figures/fig5_minimal_circuit_eigenvalues.py` | Fig. 5 caption: largest non-unit eigenvalues 0.2512 and 0.2423 (printed) |
 | `figures/fig6_superminimal_multerr.py` | Fig. 6 caption: multiplicative errors 2.91 and 1.96 (printed) |
 | `figures/fig7b_lollipop_gap.py` | Fig. 7b: spectral gaps of the linear and lollipop graphs |
+| `figures/lemma3.py` | Proof of Lemma 1: symbolic eigenvalues of a three-site brickwork with local dimensions (Q1, Q2, Q3) (printed) |
 
 The circuit and graph diagrams (Figs. 1a, 2, 4a, 5, 6, 7a) are schematics and are not generated here. Plots use matplotlib's default style rather than the paper's.
 
